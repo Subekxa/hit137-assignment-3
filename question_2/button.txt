@@ -1,0 +1,6 @@
+Left arrow = Left move
+Right arrow = Right move
+Space bar = Jump
+F key = Fire
+R = Restart
+Q = Quit
