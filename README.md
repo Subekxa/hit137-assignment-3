@@ -1,4 +1,6 @@
-# 🖼️ Image Processing App (Tkinter + OpenCV)
+# HIT137 Assignment 3 – Image Processing App (Tkinter + OpenCV)
+
+Group Assignment 3 for HIT137 - Group SYD 25
 
 This Python desktop application demonstrates core concepts of:
 
